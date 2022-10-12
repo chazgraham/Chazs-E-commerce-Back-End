@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1Hbnafw_dg-SK7401_tcCornygZpwAbDz/view
 Before running this application you must install -please npm install/npm install dotenv/npm install express sequelize mysql2
 
 ## Application Usage
--The usage is to keep track of an employers employees through the use of databases.
+-The usage is to keep track of products and their rrespective categories through the use of databases.
 
 ## Contributors
 By Chaz Graham
